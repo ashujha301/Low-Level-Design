@@ -1,4 +1,4 @@
-# System Design Questions Repository
+# Low Level Design Questions Repository
 
 Welcome to the Low Level Design Questions Repository! This repository contains a collection of system design questions with solutions provided in both C++ and Python. Each question has a dedicated directory with detailed explanations and code examples.
 
