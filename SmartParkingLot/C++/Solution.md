@@ -1,7 +1,7 @@
 
 # Solution
 
-Breif Solution of the SmartParkingLot
+Brief Solution of the SmartParkingLot
 
 
 
